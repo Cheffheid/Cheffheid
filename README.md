@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my job application tracker app.  
+🔭 I’m currently working on a new site in Astro. 
 🌱 I’m currently learning Laravel.  
 💬 Ask me anything about web accessibility!  
 ⚡ Fun fact: I am in the 99th percentile for height in the world.
